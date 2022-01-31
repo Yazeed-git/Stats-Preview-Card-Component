@@ -52,6 +52,7 @@ body{
     max-width: 320px;
     color: var(--White);
     text-align: center;
+    margin-top: 2em; 
 }
 .card__img{
     width: 100%;
